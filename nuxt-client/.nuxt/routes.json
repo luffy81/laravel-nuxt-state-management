@@ -1,0 +1,37 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/niamfauzi/Documents/Project_Php/Riset/gmedia/nuxt-client/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_8beacb9a"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "/home/niamfauzi/Documents/Project_Php/Riset/gmedia/nuxt-client/pages/categories/index.vue",
+    "chunkName": "pages/categories/index",
+    "_name": "_e373539c"
+  },
+  {
+    "name": "product-filter",
+    "path": "/product-filter",
+    "component": "/home/niamfauzi/Documents/Project_Php/Riset/gmedia/nuxt-client/pages/product-filter.vue",
+    "chunkName": "pages/product-filter",
+    "_name": "_fd59372e"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/home/niamfauzi/Documents/Project_Php/Riset/gmedia/nuxt-client/pages/products/index.vue",
+    "chunkName": "pages/products/index",
+    "_name": "_3dc82a3a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/niamfauzi/Documents/Project_Php/Riset/gmedia/nuxt-client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4d14b54f"
+  }
+]
