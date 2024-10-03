@@ -1,5 +1,6 @@
 <template>
   <b-navbar toggleable="lg" type="dark" variant="primary">
+    <div class="container">
     <b-navbar-brand href="/">My Website</b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
     <b-collapse id="nav-collapse" is-nav>
@@ -11,6 +12,7 @@
         <b-nav-item href="/cart">Cart</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
+  </div>
   </b-navbar>
 </template>
 
